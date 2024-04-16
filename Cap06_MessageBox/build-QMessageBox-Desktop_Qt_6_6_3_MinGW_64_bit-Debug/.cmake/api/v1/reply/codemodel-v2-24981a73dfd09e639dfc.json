@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5f96e4d581bd64738b2d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QMessageBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QMessageBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMessageBox-Debug-8fc50a423b538065f1c0.json",
+					"name" : "QMessageBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMessageBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMessageBox_autogen-Debug-a68957b217becf30748d.json",
+					"name" : "QMessageBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QMessageBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QMessageBox_autogen_timestamp_deps-Debug-de1dfdc67a01513a7bbd.json",
+					"name" : "QMessageBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/QMessageBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
