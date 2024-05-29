@@ -1,9 +1,85 @@
 # ninja log v5
-2	543	7349408891884982	QMessageBox_autogen/timestamp	f4c5249e803d5650
-2	543	7349408891884982	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
-2	543	7349408891884982	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
-2	543	7349408891884982	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
-548	2600	7349408912950246	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.obj	9413385c21012d9f
+11	115	7386541698937043	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	115	7386541698937043	QMessageBox_autogen/timestamp	f4c5249e803d5650
+122	1618	7386537881575417	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
 544	2618	7349408913131338	CMakeFiles/QMessageBox.dir/main.cpp.obj	65d4b0701b8cac08
-551	2706	7349408914005031	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
-2706	2900	7349408915936996	QMessageBox.exe	1ab4a65c7168a0b4
+11	115	7386541698937043	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+1619	1750	7386537882875201	QMessageBox.exe	1ab4a65c7168a0b4
+11	115	7386541698937043	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+548	2600	7349408912950246	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.obj	9413385c21012d9f
+11	114	7386541905644625	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	114	7386541905644625	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	114	7386541905644625	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	114	7386541905644625	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	121	7386542170773967	QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	121	7386542170773967	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	121	7386542170773967	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	121	7386542170773967	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	116	7386542466825064	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	116	7386542466825064	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	116	7386542466825064	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	116	7386542466825064	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	119	7386542568493987	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	119	7386542568493987	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	119	7386542568493987	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	119	7386542568493987	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	114	7386542776348813	QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	114	7386542776348813	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	114	7386542776348813	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	114	7386542776348813	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	116	7386542924016064	QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	116	7386542924016064	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+12	116	7386542924016064	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+12	116	7386542924016064	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+126	1668	7386542939540511	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1669	1800	7386542940825697	QMessageBox.exe	1ab4a65c7168a0b4
+11	116	7386543549767533	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	116	7386543549767533	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	116	7386543549767533	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	116	7386543549767533	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	125	7386544204234006	QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	125	7386544204234006	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	125	7386544204234006	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	125	7386544204234006	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	113	7386546622226807	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	113	7386546622226807	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	113	7386546622226807	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	113	7386546622226807	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	119	7386547127414290	QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	119	7386547127414290	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	119	7386547127414290	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	119	7386547127414290	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	120	7386548826049131	QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	120	7386548826049131	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+13	120	7386548826049131	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+13	120	7386548826049131	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+130	1596	7386548840806644	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1596	1721	7386548841951083	QMessageBox.exe	1ab4a65c7168a0b4
+11	114	7386549039156730	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	114	7386549039156730	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	114	7386549039156730	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	114	7386549039156730	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+124	1654	7386549054544238	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1655	1784	7386549055794550	QMessageBox.exe	1ab4a65c7168a0b4
+5	103	7386550212991515	QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	103	7386550212991515	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+5	103	7386550212991515	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	103	7386550212991515	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	118	7386550453477343	QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	118	7386550453477343	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+11	118	7386550453477343	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+11	118	7386550453477343	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+129	1661	7386550468836655	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1662	1799	7386550470240553	QMessageBox.exe	1ab4a65c7168a0b4
+5	110	7386551140186047	QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	110	7386551140186047	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+5	110	7386551140186047	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	110	7386551140186047	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+120	1600	7386551155018519	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1600	1727	7386551156331818	QMessageBox.exe	1ab4a65c7168a0b4
+5	120	7386552643623067	QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	120	7386552643623067	QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+5	120	7386552643623067	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/timestamp	f4c5249e803d5650
+5	120	7386552643623067	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	f4c5249e803d5650
+130	1868	7386552661104040	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	28900f8d68772a54
+1868	2008	7386552662424540	QMessageBox.exe	1ab4a65c7168a0b4

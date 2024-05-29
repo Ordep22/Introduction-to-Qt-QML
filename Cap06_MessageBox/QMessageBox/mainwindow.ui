@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Show message</string>
+     <string>Qt informations</string>
     </property>
    </widget>
   </widget>

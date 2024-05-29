@@ -1,0 +1,9 @@
+# ninja log v5
+1	423	7386507164527473	QMessageBox_autogen/timestamp	c8ad47b3297d055a
+1	423	7386507164527473	QMessageBox_autogen/mocs_compilation.cpp	c8ad47b3297d055a
+1	423	7386507164527473	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Release/QMessageBox_autogen/timestamp	c8ad47b3297d055a
+1	423	7386507164527473	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap06_MessageBox/build-QMessageBox-Desktop_Qt_6_6_3_MinGW_64_bit-Release/QMessageBox_autogen/mocs_compilation.cpp	c8ad47b3297d055a
+426	1721	7386507177964464	CMakeFiles/QMessageBox.dir/main.cpp.obj	c7e97785d6408a6
+423	1732	7386507178075444	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.obj	bba11f27c0b6f9e4
+428	1762	7386507178370747	CMakeFiles/QMessageBox.dir/mainwindow.cpp.obj	32f5171068e1a98f
+1762	1871	7386507179369101	QMessageBox.exe	7099386178233142
