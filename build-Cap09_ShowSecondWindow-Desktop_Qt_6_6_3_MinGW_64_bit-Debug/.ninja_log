@@ -61,3 +61,14 @@
 474	2162	7390735702774525	CMakeFiles/Cap09_ShowSecondWindow.dir/secdialog.cpp.obj	40c802b9b051d6e3
 2162	2302	7390735704151528	Cap09_ShowSecondWindow.exe	28713f5fb604badc
 3	20	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	3690b9ffbc6740d4
+7	132	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	3690b9ffbc6740d4
+13	481	7390737318067246	Cap09_ShowSecondWindow_autogen/timestamp	e5f1b6ecc3e35c1b
+13	481	7390737318067246	Cap09_ShowSecondWindow_autogen/mocs_compilation.cpp	e5f1b6ecc3e35c1b
+13	481	7390737318067246	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap09_ShowSecondWindow_autogen/timestamp	e5f1b6ecc3e35c1b
+13	481	7390737318067246	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap09_ShowSecondWindow_autogen/mocs_compilation.cpp	e5f1b6ecc3e35c1b
+481	2106	7390737334704492	CMakeFiles/Cap09_ShowSecondWindow.dir/Cap09_ShowSecondWindow_autogen/mocs_compilation.cpp.obj	61d364407e1baf2d
+484	2136	7390737335075526	CMakeFiles/Cap09_ShowSecondWindow.dir/secdialog.cpp.obj	40c802b9b051d6e3
+490	2140	7390737335105567	CMakeFiles/Cap09_ShowSecondWindow.dir/mainwindow.cpp.obj	f184538da81af6c9
+487	2229	7390737336002771	CMakeFiles/Cap09_ShowSecondWindow.dir/main.cpp.obj	9dde7506ebe7a7d6
+2229	2377	7390737337400328	Cap09_ShowSecondWindow.exe	28713f5fb604badc
+3	19	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	3690b9ffbc6740d4

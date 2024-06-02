@@ -1,7 +1,7 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include "QApplication"
-#include "secdialog.h"
+//#include "secdialog.h"
 
 
 MainWindow::MainWindow(QWidget *parent)
@@ -20,12 +20,13 @@ void MainWindow::on_pushButton_clicked()
 {
 
 
+    /*
     SecDialog Secd;
     Secd.setModal(true);
     Secd.exec();
-
-    //secDialog = new SecDialog(this);
-    //secDialog->show();
+    */
+    secDialog = new SecDialog(this);
+    secDialog->show();
 
 }
 

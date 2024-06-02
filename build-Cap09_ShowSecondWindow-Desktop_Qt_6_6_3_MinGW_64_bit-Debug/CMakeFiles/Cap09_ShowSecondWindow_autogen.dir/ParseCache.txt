@@ -139,7 +139,9 @@ C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWind
  mdp:C:/Qt/6.6.3/mingw_64/include/QtGui/qtransform.h
  mdp:C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs.h
  mdp:C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs_win.h
+ mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/QDialog
  mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/QMainWindow
+ mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/qdialog.h
  mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/qmainwindow.h
  mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/qsizepolicy.h
  mdp:C:/Qt/6.6.3/mingw_64/include/QtWidgets/qtabwidget.h
@@ -347,6 +349,7 @@ C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWind
  mdp:C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWindow/mainwindow.h
+ mdp:C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWindow/secdialog.h
  mdp:C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSecondWindow-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap09_ShowSecondWindow_autogen/moc_predefs.h
 C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWindow/main.cpp
 C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWindow/mainwindow.cpp

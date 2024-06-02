@@ -138,7 +138,9 @@ C:/Users/Pedro\ Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSec
   C:/Qt/6.6.3/mingw_64/include/QtGui/qtransform.h \
   C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.6.3/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.6.3/mingw_64/include/QtWidgets/QDialog \
   C:/Qt/6.6.3/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.6.3/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.6.3/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.6.3/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.6.3/mingw_64/include/QtWidgets/qtabwidget.h \
@@ -344,4 +346,5 @@ C:/Users/Pedro\ Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap09_ShowSec
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/Pedro\ Pereira/Documents/Git/Introduction-to-Qt-QML/Cap09_ShowSecondWindow/secdialog.h

@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-//#include "secdialog.h"
+#include "secdialog.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -25,6 +25,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    //SecDialog *secDialog;
+    SecDialog *secDialog;
 };
 #endif // MAINWINDOW_H
