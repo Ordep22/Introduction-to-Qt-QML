@@ -1,9 +1,0 @@
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Cap08_SpacersSplitterBuddyTabs.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Cap08_SpacersSplitterBuddyTabs_autogen_timestamp_deps.dir
-C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/Cap08_SpacersSplitterBuddyTabs_autogen.dir
