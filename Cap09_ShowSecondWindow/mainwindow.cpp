@@ -25,6 +25,7 @@ void MainWindow::on_pushButton_clicked()
     Secd.setModal(true);
     Secd.exec();
     */
+    hide();
     secDialog = new SecDialog(this);
     secDialog->show();
 
