@@ -1,0 +1,39 @@
+# ninja log v5
+4	26	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+2	1684	7390682293218623	Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+2	1684	7390682293218623	Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+2	1684	7390682293218623	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+2	1684	7390682293218623	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+1684	3284	7390682309495199	CMakeFiles/Cap07_LayoutsinQT.dir/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp.obj	b2577a910eead78d
+1687	3291	7390682309714874	CMakeFiles/Cap07_LayoutsinQT.dir/mainwindow.cpp.obj	bd77a03fce2427e2
+1689	3295	7390682309755073	CMakeFiles/Cap07_LayoutsinQT.dir/main.cpp.obj	444ab038a970d9c1
+3296	3532	7390682312080197	Cap07_LayoutsinQT.exe	e1c3c278896fbe4c
+4	21	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+4	22	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+7	135	7390683671230963	Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+7	135	7390683671230963	Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+7	135	7390683671230963	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+7	135	7390683671230963	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+145	1757	7390683687436349	CMakeFiles/Cap07_LayoutsinQT.dir/mainwindow.cpp.obj	bd77a03fce2427e2
+1757	1913	7390683688965588	Cap07_LayoutsinQT.exe	e1c3c278896fbe4c
+5	21	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+13	128	7390693664983562	Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+13	128	7390693664983562	Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+13	128	7390693664983562	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+13	128	7390693664983562	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+137	1651	7390693680218306	CMakeFiles/Cap07_LayoutsinQT.dir/mainwindow.cpp.obj	bd77a03fce2427e2
+1651	1784	7390693681519160	Cap07_LayoutsinQT.exe	e1c3c278896fbe4c
+4	20	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+12	120	7390695430520978	Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+12	120	7390695430520978	Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+12	120	7390695430520978	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+12	120	7390695430520978	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+129	1524	7390695444491851	CMakeFiles/Cap07_LayoutsinQT.dir/mainwindow.cpp.obj	bd77a03fce2427e2
+1524	1654	7390695445833866	Cap07_LayoutsinQT.exe	e1c3c278896fbe4c
+4	20	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6533d09533ac58d2
+13	122	7390697271357203	Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+13	122	7390697271357203	Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+13	122	7390697271357203	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/timestamp	9f69dd0a06cb827c
+13	122	7390697271357203	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap07_LayoutsinQT_autogen/mocs_compilation.cpp	9f69dd0a06cb827c
+132	1614	7390697286287669	CMakeFiles/Cap07_LayoutsinQT.dir/mainwindow.cpp.obj	bd77a03fce2427e2
+1615	1750	7390697287598165	Cap07_LayoutsinQT.exe	e1c3c278896fbe4c

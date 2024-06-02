@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c9e32c853a7c21bfe614.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cap07_LayoutsinQT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cap07_LayoutsinQT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cap07_LayoutsinQT-Debug-2db7652ad57aaef5981d.json",
+					"name" : "Cap07_LayoutsinQT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cap07_LayoutsinQT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cap07_LayoutsinQT_autogen-Debug-fca4f0357863788be52e.json",
+					"name" : "Cap07_LayoutsinQT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Cap07_LayoutsinQT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cap07_LayoutsinQT_autogen_timestamp_deps-Debug-c1ab526294b1a0fd7dba.json",
+					"name" : "Cap07_LayoutsinQT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap07_LayoutsinQT-Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/Cap07_LayoutsinQT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
