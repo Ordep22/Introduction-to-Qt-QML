@@ -1,0 +1,11 @@
+# ninja log v5
+4	28	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f630178cf6f54b7a
+1	420	7390707106573664	Cap08_SpacersSplitterBuddyTabs_autogen/timestamp	f27560d087660a75
+1	420	7390707106573664	Cap08_SpacersSplitterBuddyTabs_autogen/mocs_compilation.cpp	f27560d087660a75
+1	420	7390707106573664	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap08_SpacersSplitterBuddyTabs_autogen/timestamp	f27560d087660a75
+1	420	7390707106573664	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Cap08_SpacersSplitterBuddyTabs_autogen/mocs_compilation.cpp	f27560d087660a75
+421	1948	7390707122309436	CMakeFiles/Cap08_SpacersSplitterBuddyTabs.dir/main.cpp.obj	1996aa1d080166f4
+423	2001	7390707122849794	CMakeFiles/Cap08_SpacersSplitterBuddyTabs.dir/Cap08_SpacersSplitterBuddyTabs_autogen/mocs_compilation.cpp.obj	1c9d4bc2838cf278
+425	2137	7390707124205869	CMakeFiles/Cap08_SpacersSplitterBuddyTabs.dir/mainwindow.cpp.obj	61519ddd8a04d781
+2137	2281	7390707125586416	Cap08_SpacersSplitterBuddyTabs.exe	1204d74677c8a2b8
+5	22	0	C:/Users/Pedro Pereira/Documents/Git/Introduction-to-Qt-QML/build-Cap08_SpacersSplitterBuddyTabs-Desktop_Qt_6_6_3_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f630178cf6f54b7a
